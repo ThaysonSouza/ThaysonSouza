@@ -7,6 +7,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="40" alt="instagram logo"  />
 </div>
 
+##
+
+<h4 align="center"> Thayson Sousa | @souza.t77</h4>
+
+##
+
 ###
 
 <h2 align="left">About me</h2>
