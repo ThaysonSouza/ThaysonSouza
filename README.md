@@ -2,17 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="40" alt="instagram logo"  />
-</div>
-
-##
-
-<h4 align="center"> Thayson Sousa | @souza.t77</h4>
-
-##
-
 ###
 
 <h2 align="left">About me</h2>
@@ -54,6 +43,21 @@
 <h2 align="left">Git Stats</h2>
 
 ###
+
+<h2 align="center">My social media</h2>
+
+##
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="40" alt="instagram logo"  />
+</div>
+
+##
+
+<h4 align="center"> Thayson Sousa | @souza.t77</h4>
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThaysonSouza&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
